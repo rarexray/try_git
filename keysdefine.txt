@@ -1,5 +1,6 @@
 {
 "stockv2":{
+    "test":"test",
     "name":"股票",
     "decorators":[
         {"image":"keyboard_btn_bgd.png", "rect":"8,5,56,152"}
